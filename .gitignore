@@ -1,0 +1,3 @@
+.credit-rm/
+models/*.pkl
+__pycache__/
